@@ -5,7 +5,7 @@ Customizable accounting Software designed for micro businesses with focus on the
 # Intended infrastructure
 - written in python
 - utilization of SQLite3, database stored on cloud service such as Dropbox
-- Desktop GUI enabling Masterdata Management, Financial Accounting
+- Desktop GUI enabling Masterdata Management, Financial Accounting, Financial Reporting
 - Mobile GUI to enable posting journal entries on-the-go and link and upload documents (e.g. print screens, photos of receipts) to cloud storage
 
 
