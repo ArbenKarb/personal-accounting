@@ -1,4 +1,4 @@
-# personal-accounting
+# Personal accounting
 Customizable accounting Software designed for micro and small businesses with focus on the Swiss Juristiction
 
 
