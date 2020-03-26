@@ -11,6 +11,7 @@
 		<button> Journal Templates </button>
 		<button> Mapping BS (Move Types) </button>
 		<button> Mapping IS (Functions) </button>
+		<button> VAT </button>
 		<button> FX Tables </button>
 	</div>
 
